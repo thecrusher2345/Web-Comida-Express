@@ -1,0 +1,29 @@
+
+.title_prin{
+	text-shadow: 2px 2px  #A349A4;
+	color: #FFFD47;
+}
+.title_2{
+	color: white;
+	font-family:'Kanit', cursive;
+}
+
+.txt{
+	margin-left: 4px;
+	margin-right: 7px;
+	margin-bottom: 6px;
+	font-family: "Kanit";
+	background-color: #FF914D;
+	
+}
+.enviar{
+	font-family:'Kanit', cursive;
+	color: white;
+	background-color: #FF914D;
+
+}
+
+form{
+	text-align: center;
+}
+
